@@ -1,0 +1,63 @@
+#welcome {
+  color:crimson;
+  background-color:black;
+  font-family:'Times New Roman', Times, serif;
+
+}
+#theEnd{
+  text-align: center;
+  color:black;
+  background-color:indianred;
+  font-family:cursive;
+}
+body{
+  background-color:darkgray;
+}
+#Start{
+color:darkred;
+font-family:'Times New Roman', Times, serif;
+text-decoration: none;
+}
+#path{
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#goodluck{
+  color:firebrick;
+  font-family:monospace;
+}
+img{display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;}
+  #Carlos{
+    display:block;
+    width:40%;
+    margin-left:auto;
+    margin-right:auto;
+  }
+  #death{
+    background-color:darkred;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:aliceblue; 
+  }
+  a{
+    text-decoration:none;
+    color:firebrick;
+    text-align:center;
+  }
+  p{
+    text-align:center;
+  }
+
+  iframe{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  }
+  h1{
+    background-color:darkred;
+    color:whitesmoke;
+  }
+  #or{
+    text-align:left;
+  }
